@@ -94,14 +94,7 @@
 
 
 
-@media (pointer: coarse) and (hover: none) {
- #homepage {
-    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
-  }
-  #homepage video {
-    display: none;
-  }
-}
+
 
 
 
